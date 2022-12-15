@@ -2,6 +2,8 @@
 
 This plugin combines the out-of-box Queues Stats and Teams views into a single view.
 
+![Combined view screenshot](screenshots/combinedView.png)
+
 ## Setup
 
 Make sure you have [Node.js](https://nodejs.org) as well as [`npm`](https://npmjs.com). We support Node >= 10.12 (and recommend the _even_ versions of Node). Afterwards, install the dependencies by running `npm install`:

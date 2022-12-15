@@ -28,6 +28,7 @@ height: 100%;
   padding: 1rem;
 }
 
+.Twilio-TeamsView-Loaded h1,
 .Twilio-TeamsView-Loaded h2 {
   display: none;
 }
